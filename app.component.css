@@ -1,0 +1,17 @@
+
+
+
+.hero_list{
+  background: #ddd;
+  width: 100%;
+
+}
+
+.selected{
+  background: #CFD8DC;
+  color:#fff;
+  display: block;
+}
+
+
+
